@@ -1,0 +1,11 @@
+body {
+    background-color: paleturquoise;
+    color: slategray;
+
+
+}
+.header-color {
+    height: 100vh;
+    background-image: linear-gradient(hotpink slateblue);
+    opacity: 1.0;
+}
