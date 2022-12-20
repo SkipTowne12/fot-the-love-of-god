@@ -1,11 +1,16 @@
 body {
     background-color: paleturquoise;
-    color: slategray;
+    color: slategray;}
 
+nav {background-color: black ;
 
+font-size: larger;
+display: inline-block;
 }
+
 .header-color {
-    height: 100vh;
+    height: 250px;
     background-image: linear-gradient(hotpink slateblue);
     opacity: 1.0;
 }
+gallery
